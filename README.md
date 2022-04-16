@@ -6,8 +6,10 @@
   intuito de aprender mais sobre JavaScript e sobre estilização com CSS, fiz <br>
   algumas alterações no desing<h3>
 
-## Link do Relógio
-https://davibarroscosta.github.io/Relogio/
+## Link do Relógio: https://davibarroscosta.github.io/Relogio/ <br>
+
+## Relógio 
+
 ![AnimaçãoCalculadora](https://user-images.githubusercontent.com/102886070/163656093-c585a6b9-9f18-4744-a1bb-479eddf33bf3.gif)
 
 ## Link do video que aprendi o relógio

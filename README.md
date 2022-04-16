@@ -10,7 +10,8 @@
 
 ## Relógio 
 
-![AnimaçãoCalculadora](https://user-images.githubusercontent.com/102886070/163656093-c585a6b9-9f18-4744-a1bb-479eddf33bf3.gif)
+ ![AnimaçãoRelógio](https://user-images.githubusercontent.com/102886070/163680396-59e52edf-6ac3-420e-9a95-4ee159949758.gif)
+
 
 ## Link do video que aprendi o relógio
 

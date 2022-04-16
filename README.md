@@ -8,3 +8,8 @@
 
 ## Link do Relógio: https://davibarroscosta.github.io/Relogio/
 ![AnimaçãoCalculadora](https://user-images.githubusercontent.com/102886070/163656093-c585a6b9-9f18-4744-a1bb-479eddf33bf3.gif)
+
+## Link do video que aprendi o relógio
+
+https://www.youtube.com/watch?v=yXFiTDfhSXo&t=4s
+  
